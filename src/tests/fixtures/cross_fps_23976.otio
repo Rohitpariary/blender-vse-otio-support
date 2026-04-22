@@ -1,0 +1,7 @@
+{
+  \"OTIO_SCHEMA\": \"Timeline.v1.0\",
+  \"global_start\": {\"OTIO_SCHEMA\": \"RationalTime.v1.0\", \"value\": 0, \"rate\": 23.976},
+  \"tracks\": [...] ,
+  \"name\": \"cross_fps_23976\"
+}
+// COMPLETE

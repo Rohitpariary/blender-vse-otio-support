@@ -1,0 +1,13 @@
+{
+  \"OTIO_SCHEMA\": \"Timeline.v1.0\",
+  \"tracks\": [{
+    \"OTIO_SCHEMA\": \"Track.v1.0\",
+    \"children\": [
+      {\"OTIO_SCHEMA\": \"Clip.v1.0\", \"name\": \"clip1\"},
+      {\"OTIO_SCHEMA\": \"Transition.v1.0\", \"name\": \"dissolve\", \"in_offset\": {\"OTIO_SCHEMA\": \"RationalTime.v1.0\", \"value\": 12, \"rate\": 24}, \"transition_type\": \"SMPTE_Dissolve\"},
+      {\"OTIO_SCHEMA\": \"Clip.v1.0\", \"name\": \"clip2\"}
+    ]
+  }],
+  \"name\": \"with_transitions\"
+}
+// COMPLETE

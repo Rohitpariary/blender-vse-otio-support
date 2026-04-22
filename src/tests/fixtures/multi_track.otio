@@ -1,0 +1,10 @@
+{
+  \"OTIO_SCHEMA\": \"Timeline.v1.0\",
+  \"tracks\": [
+    {\"OTIO_SCHEMA\": \"Track.v1.0\", \"name\": \"Video 1\", \"kind\": \"video\", \"children\": [...] },
+    {\"OTIO_SCHEMA\": \"Track.v1.0\", \"name\": \"Audio 1\", \"kind\": \"audio\", \"children\": [...] },
+    {\"OTIO_SCHEMA\": \"Track.v1.0\", \"name\": \"Video 2\", \"kind\": \"video\", \"children\": [...] }
+  ],
+  \"name\": \"multi_track\"
+}
+// COMPLETE with multiple clips

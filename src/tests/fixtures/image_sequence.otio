@@ -1,0 +1,12 @@
+{
+  \"OTIO_SCHEMA\": \"Timeline.v1.0\",
+  \"tracks\": [{
+    \"OTIO_SCHEMA\": \"Track.v1.0\",
+    \"children\": [{
+      \"OTIO_SCHEMA\": \"Clip.v1.0\",
+      \"media_reference\": {\"OTIO_SCHEMA\": \"ImageSequenceReference.v1.0\", \"name\": \"seq.%04d.exr\", \"target_url_base\": \"file:///path/seq/\", \"frame_step\": 1, \"frame_first\": 1, \"frame_last\": 100}
+    }]
+  }],
+  \"name\": \"image_sequence\"
+}
+// COMPLETE

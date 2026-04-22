@@ -1,0 +1,12 @@
+{
+  \"OTIO_SCHEMA\": \"Timeline.v1.0\",
+  \"tracks\": [{
+    \"OTIO_SCHEMA\": \"Track.v1.0\",
+    \"children\": [{
+      \"OTIO_SCHEMA\": \"Clip.v1.0\",
+      \"media_reference\": {\"OTIO_SCHEMA\": \"MissingReference.v1.0\", \"name\": \"missing.mp4\"}
+    }]
+  }],
+  \"name\": \"missing_media\"
+}
+// COMPLETE
